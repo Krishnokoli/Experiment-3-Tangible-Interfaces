@@ -1,5 +1,9 @@
 /*
  This code is for the Dhyai Drishti installation for Tangible Interfaces assignment, Experiment 3
+ MUSIC 
+ Curated by 'Meditative Mind'
+ Music by Dilpreet Bhatia
+ https://www.youtube.com/watch?v=o_BogI1Xeo8
  Based on Kate Hartman and Nick Puckett's example for tangible interfaces assignment
  Based on based on this Lab on the ITP Physical Computing site: 
  https://itp.nyu.edu/physcomp/labs/labs-serial-communication/two-way-duplex-serial-communication-using-an-arduino/
